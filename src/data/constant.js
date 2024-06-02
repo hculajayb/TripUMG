@@ -1,0 +1,1 @@
+export const suggestions = ['GUA','LAX', 'JFK', 'ORD', 'DXB', 'LHR', 'SFO', 'NRT','CDG', 'AMS', 'SIN', 'PEK','SYD', 'HND', 'FRA', 'YYZ', 'ATL', 'ICN'];
